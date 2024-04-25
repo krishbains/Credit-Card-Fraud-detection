@@ -21,3 +21,5 @@ Skills:
 - Programming Languages: Python
 - Libraries: pandas, scikit-learn, matplotlib
 - Tools: Jupyter Notebook, Git, CSV
+
+Dataset used : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
