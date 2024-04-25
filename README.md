@@ -19,7 +19,7 @@ Achieved an accuracy score of 94% on the test dataset. Identified key features c
 
 Skills:
 - Programming Languages: Python
-- Libraries: pandas, scikit-learn, matplotlib
-- Tools: Jupyter Notebook, Git, CSV
+- Libraries: pandas, scikit-learn
+- Tools: VsCode, Git, CSV
 
 Dataset used : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
